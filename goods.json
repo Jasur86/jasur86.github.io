@@ -1,0 +1,169 @@
+{
+    "goods" : [
+            {
+            "name" : "Двигатель",
+            "img" : "icons/1.png",
+            "base" : [
+                {
+                    "names" : "ЛАДА",
+                    "cost" : 100,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs"
+                },{
+                    "names" : "FELB",
+                    "cost" : 200,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs"
+                },{
+                    "names" : "AUDI",
+                    "cost" : 300,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs"
+                },{
+                    "names" : "ДAF",
+                    "cost" : 400,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs"
+                },{
+                    "names" : "RAF",
+                    "cost" : 500,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs"
+                },{
+                    "names" : "Nexia",
+                    "cost" : 600,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs"
+                }
+                
+                ]
+            },
+            {
+            "name" : "Тормозные системы",
+            "img" : "icons/tormm.png",
+                "param" : {
+                    "vin" : "1234dfg7673599",
+                    "cost" : 700,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs",
+                    "order" : 6
+                }
+            },
+            {
+            "name" : "Коврик",
+            "img" : "icons/polik.png",
+                "param" : {
+                    "vin" : "1234dfg7673599",
+                    "cost" : 700,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs",
+                    "order" : 6
+                }
+            },
+            {
+            "name" : "Фары",
+            "img" : "img/d.png",
+                "param" : {
+                    "vin" : "1234dfg7673599",
+                    "cost" : 700,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs",
+                    "order" : 6
+                }
+            },
+            {
+            "name" : "Лобовые стекла",
+            "img" : "icons/6.png",
+                "param" : {
+                    "vin" : "1234dfg7673599",
+                    "cost" : 700,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs",
+                    "order" : 6
+                }
+            },
+            {
+            "name" : "Лобовые стекла",
+            "img" : "icons/6.png",
+                "param" : {
+                    "vin" : "1234dfg7673599",
+                    "cost" : 700,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs",
+                    "order" : 6
+                }
+            },
+            {
+            "name" : "Лобовые стекла",
+            "img" : "icons/6.png",
+                "param" : {
+                    "vin" : "1234dfg7673599",
+                    "cost" : 700,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs",
+                    "order" : 6
+                }
+            },
+            {
+            "name" : "Лобовые стекла",
+            "img" : "icons/6.png",
+                "param" : {
+                    "vin" : "1234dfg7673599",
+                    "cost" : 700,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs",
+                    "order" : 6
+                }
+            },
+            {
+            "name" : "Лобовые стекла",
+            "img" : "icons/6.png",
+                "param" : {
+                    "vin" : "1234dfg7673599",
+                    "cost" : 700,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs",
+                    "order" : 6
+                }
+            },
+            {
+            "name" : "Лобовые стекла",
+            "img" : "icons/6.png",
+                "param" : {
+                    "vin" : "1234dfg7673599",
+                    "cost" : 700,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs",
+                    "order" : 6
+                }
+            },
+            {
+            "name" : "Лобовые стекла",
+            "img" : "icons/6.png",
+                "param" : {
+                    "vin" : "1234dfg7673599",
+                    "cost" : 700,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs",
+                    "order" : 6
+                }
+            },
+            {
+            "name" : "Лобовые стекла",
+            "img" : "icons/6.png",
+                "param" : {
+                    "vin" : "1234dfg7673599",
+                    "cost" : 700,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs",
+                    "order" : 6
+                }
+            },
+            {
+            "name" : "Лобовые стекла",
+            "img" : "icons/6.png",
+                "param" : {
+                    "vin" : "1234dfg7673599",
+                    "cost" : 700,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs",
+                    "order" : 6
+                }
+            },
+            {
+            "name" : "Лобовые стекла",
+            "img" : "icons/6.png",
+                "param" : {
+                    "vin" : "1234dfg7673599",
+                    "cost" : 700,
+                    "descr" : "dsafdfsdfgsdfgdsgsdgs",
+                    "order" : 6
+                }
+            }
+            
+            
+            
+        ]
+    }
